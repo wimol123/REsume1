@@ -1,0 +1,50 @@
+h1{
+  color:#b0120a;
+  font-family: 'Sriracha', sans-serif;
+}
+h2{
+  text-align: center;
+}
+.phiyada {
+  border-style:solid;
+  border-color:#fafafa;
+  border-radius:500px;
+}
+
+body{
+    background-color:#f9bdbb;
+    text-align: center
+
+  }
+  hr{
+  border-style: dashed none none;
+  border-color:#44140c;
+  border-height:0px;
+  border-width:5px;
+  }
+  img{
+  height:250px;
+  width:250px;
+  }
+  thead{
+background-color:#9BC2;
+color:#000000;
+}
+.con1:hover,.w1:hover{
+  color:#26c6da;
+}
+.Bodyall{
+  margin-left: 25%;
+}
+.Tall{
+  margin-left: 35%;
+}
+.hob{
+  margin-left: 45%;
+}
+.hobb{
+    margin-left: 35%;
+}
+.TBOdy{
+    margin-left: 35%;
+}
